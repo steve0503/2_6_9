@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B90D41DE-514B-47AD-A3DE-2815530427FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>16page</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CD56807-5D16-420D-8930-F05A988EDDE3</key>
+		<string>https://github.com/iasandcb/16page.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>16page.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CD56807-5D16-420D-8930-F05A988EDDE3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iasandcb/16page.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CD56807-5D16-420D-8930-F05A988EDDE3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CD56807-5D16-420D-8930-F05A988EDDE3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>16page</string>
+		</dict>
+	</array>
+</dict>
+</plist>
